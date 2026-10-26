@@ -11,7 +11,7 @@ full evaluation protocol on homophilous and heterophilous benchmarks against GCN
 GraphSAGE with ablations of each component. This draft reports the protocol and implemen-
 tation
 
-Nitish Kumar Roy author own lab 360
+Nitish Kumar Roy (Author 1st only)  https://nitishkumarroy999.github.io/Nitish-Kumar-Roy-CSE/
 
 
 Related Work

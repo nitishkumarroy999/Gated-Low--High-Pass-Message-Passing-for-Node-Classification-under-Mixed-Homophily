@@ -141,14 +141,6 @@ This project is licensed under the MIT License.
 
 ---
 
-### How to use this README
-
-1. Go to your GitHub repository  
-2. Click **Add file → Create new file**  
-3. Name it exactly: `README.md`  
-4. Paste the entire content above  
-5. Commit the changes  
-
 This README is designed to be:
 - Easy to understand for both beginners and researchers  
 - Visually clean  

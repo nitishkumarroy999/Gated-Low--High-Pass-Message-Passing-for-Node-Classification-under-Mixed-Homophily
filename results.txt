@@ -1,0 +1,10 @@
+Cora       mlp          75.96 ± 1.91
+Cora       gcn          87.84 ± 0.67
+Cora       gat          87.68 ± 1.00
+Cora       sage         87.38 ± 0.82
+Cora       glp          87.73 ± 0.89
+Texas      mlp          80.54 ± 5.38
+Texas      gcn          54.05 ± 4.36
+Texas      gat          55.68 ± 4.86
+Texas      sage         81.08 ± 5.92
+Texas      glp          86.49 ± 4.19
